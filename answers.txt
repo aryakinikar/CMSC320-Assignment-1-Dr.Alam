@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Using Git helps us have efficient version control. It allows you to track changes and collaborate easily with peers on coding projects. It also gives us a good way to manage different versions of files. This way, if we wanted to revert to old stages, it works!
